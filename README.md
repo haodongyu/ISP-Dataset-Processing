@@ -20,7 +20,7 @@ dng_to_png.py
 splitraw.py  
 
 ```  
-Then run the `01_rename.py` file to rename the image's name. All of the images will be sorted with time sequence.  
+Then run the `01_rename.py` file to rename the image's name. All of the images will be sorted according to time sequence.  
 ### Matching images  
 Second, run `02_matching.py`. The processed patches will be saved to a new folder: `processed`.  
 ## Other details  
